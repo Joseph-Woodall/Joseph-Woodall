@@ -33,7 +33,7 @@ I'm Joseph, a Business Intelligence Analyst transitioning from a background in s
 
 ## 📫 How to reach me
 - LinkedIn: [Joseph Woodall Jr](https://www.linkedin.com/in/joseph-woodall-jr/)
-- Email: [Your professional email]
+- Email: [josephwoodall99@outlook.com]
 
 ## ⚡ Fun facts
 - Transitioning from sales to data analytics
