@@ -3,7 +3,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-josephdwoodall@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:josephdwoodall@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joseph-woodall-373363161/)
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-Projects-green)](https://github.com/Joseph-Woodall?tab=repositories)
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-Projects-green)](https://github.com/Joseph-Woodall?tab=repositories)
 
 
 I'm Joseph, a Business Intelligence Analyst transitioning from a background in sales and customer service. My expertise lies in data analysis, visualization, and deriving actionable insights from complex datasets.
