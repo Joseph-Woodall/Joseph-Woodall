@@ -1,6 +1,6 @@
 # Hi there 👋
 
-[![Gmail Badge](https://img.shields.io/badge/-your.email@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:josephdwoodall@gmail.com)](josephdwoodall@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-your.email@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:josephdwoodall@gmail.com)](mailto:josephdwoodall@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue)](linkedin.com/in/joseph-woodall-373363161)
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-Projects-green)](https://github.com/Joseph-Woodall?tab=repositories)
 
