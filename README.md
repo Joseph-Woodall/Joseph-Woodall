@@ -41,8 +41,34 @@ I'm Joseph, a Business Intelligence Analyst transitioning from a background in s
 - Passionate about turning data into actionable insights
 
 ## 📊 Recent Projects
-1. Retail Sales Analysis - Improved inventory management leading to 15% profitability increase
-2. Interactive KPI Dashboards - Created visualizations for stakeholder decision-making
-3. [Additional projects from your portfolio]
+
+### [E-Commerce Business Analytics Project](link-to-project-repo)
+- Built 3-stage conversion funnel improving process understanding by 15%
+- Enhanced marketing ROI by 10% through cohort analysis
+- [View Project]([link-to-project](https://docs.google.com/spreadsheets/d/1X6JJNAOfZrKUHKaHiAhctf3KljOUEAC8WxaMsnZWzsU/edit?usp=sharing)) | [Demo](link-to-demo)
+
+### [SQL Data Analysis for Ride-Sharing Company](link-to-project-repo)
+- Reduced operational costs by 5% through pattern analysis
+- Improved service efficiency by 10% during adverse weather
+- [View Project](link-to-project) | [Demo](link-to-demo)
+
+### [Advanced Tableau Dashboards for Restaurant Analysis](link-to-project-repo)
+- Increased marketing efficiency by 12% using revenue heatmaps
+- Boosted sales by 8% through menu optimization
+- [View Project](link-to-project) | [Demo](link-to-demo)
+
+### [Power BI Data Modeling and Visualization](link-to-project-repo)
+- Improved customer satisfaction by 15% through response tracking
+- Enhanced developer response rates by 20%
+- [View Project](link-to-project) | [Demo](link-to-demo)
+
+## 📫 How to reach me
+- LinkedIn: [Joseph Woodall Jr](https://www.linkedin.com/in/joseph-woodall-jr/)
+- Email: josephwoodall99@outlook.com
+
+## ⚡ Fun facts
+- Transitioning from sales to data analytics
+- Completed TripleTen's Business Intelligence Analytics program
+- Passionate about turning data into actionable insights
 
 Feel free to reach out for collaborations or discussions about data analytics!
