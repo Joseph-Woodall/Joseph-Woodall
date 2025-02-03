@@ -50,7 +50,7 @@ I'm Joseph, a Business Intelligence Analyst transitioning from a background in s
 ### [SQL Data Analysis for Ride-Sharing Company](link-to-project-repo)
 - Reduced operational costs by 5% through pattern analysis
 - Improved service efficiency by 10% during adverse weather
-- [View Project](link-to-project) | [Demo](link-to-demo)
+- [View Project](link-to-project) | [Demo](link-to-demo) 
 
 ### [Advanced Tableau Dashboards for Restaurant Analysis](link-to-project-repo)
 - Increased marketing efficiency by 12% using revenue heatmaps
