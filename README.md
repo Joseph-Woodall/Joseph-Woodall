@@ -45,7 +45,7 @@ I'm Joseph, a Business Intelligence Analyst transitioning from a background in s
 ### [E-Commerce Business Analytics Project](link-to-project-repo)
 - Built 3-stage conversion funnel improving process understanding by 15%
 - Enhanced marketing ROI by 10% through cohort analysis
-- [View Project]([link-to-project](https://docs.google.com/spreadsheets/d/1X6JJNAOfZrKUHKaHiAhctf3KljOUEAC8WxaMsnZWzsU/edit?usp=sharing)) | [Demo](link-to-demo)
+- [View Project]([link-to-project](https://docs.google.com/spreadsheets/d/1X6JJNAOfZrKUHKaHiAhctf3KljOUEAC8WxaMsnZWzsU/edit?usp=sharing) | [Demo](link-to-demo)
 
 ### [SQL Data Analysis for Ride-Sharing Company](link-to-project-repo)
 - Reduced operational costs by 5% through pattern analysis
